@@ -1,0 +1,16 @@
+# Reference copy of the separate "forma" project (see batch publication plan)
+forma/
+
+# Copies and backups
+Copia de */
+Backup_old/
+
+# OS / editor artifacts
+.DS_Store
+Thumbs.db
+Desktop.ini
+*.tmp
+*.log
+*.bak
+*.swp
+~$*
